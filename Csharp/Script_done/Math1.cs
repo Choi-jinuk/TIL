@@ -2,7 +2,7 @@
 
 namespace Csharp
 {
-    class Program
+    class Math1
     {
         static void Main(string[] args)
         {
