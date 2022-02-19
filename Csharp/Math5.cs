@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Csharp_WorkSpace
 {
-    class Program
+    class Math5
     {
         static StreamReader input = new StreamReader(Console.OpenStandardInput());
         static void Main(string[] args)
